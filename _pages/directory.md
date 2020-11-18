@@ -7,7 +7,7 @@ featured_image: /images/demo/about.jpg
 
 ## Stuff which you don’t know you might have
 
-* [Self abandonment](/project/self-abandonment)
+* [Self abandonment](project/self-abandonment)
 * [Codependency](#)
 * [Narcissism](#)
 * [Trauma](#)
