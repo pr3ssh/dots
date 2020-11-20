@@ -8,3 +8,14 @@ featured_image: 'https://cdn.mindful.org/2016/04/Trauma.jpg?q=80&fm=jpg&fit=crop
 ## Trauma demo content
 
 This page is a demo that shows everything you can do inside portfolio and blog posts...
+
+### People
+
+* Person 1
+* Person 2
+* ...
+
+### Rules
+
+1. Do something...
+2. ...
