@@ -10,7 +10,7 @@ featured_image: /images/demo/about.jpg
 * [Self abandonment](project/self-abandonment)
 * [Codependency](#)
 * [Narcissism](#)
-* [Trauma](#)
+* [Trauma](project/trauma)
 
 ## Some tools and approaches to help you heal
 
