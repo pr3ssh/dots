@@ -2,7 +2,7 @@
 title: 'Self abandonment'
 subtitle: 'Subtitle edited...'
 description: 'Subtitle edited...'
-featured_image: 'images/social.jpg'
+featured_image: '/images/social.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
