@@ -2,15 +2,15 @@
 title: Themes & Directory
 subtitle: In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to...
 description: In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to...
-featured_image: /images/demo/about.jpg
+featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 ---
 
 ## Stuff which you don’t know you might have
 
-* [Self abandonment](directory/self-abandonment)
+* [Self abandonment](self-abandonment)
 * [Codependency](#)
 * [Narcissism](#)
-* [Trauma](directory/trauma)
+* [Trauma](trauma)
 
 ## Some tools and approaches to help you heal
 

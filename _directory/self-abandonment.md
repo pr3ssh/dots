@@ -2,7 +2,7 @@
 title: 'Self abandonment'
 subtitle: 'Subtitle edited...'
 description: 'Subtitle edited...'
-featured_image: 'images/social.jpg'
+featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 ---
 
 ## Demo content
