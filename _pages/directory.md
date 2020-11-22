@@ -7,10 +7,10 @@ featured_image: /images/demo/about.jpg
 
 ## Stuff which you don’t know you might have
 
-* [Self abandonment](project/self-abandonment)
+* [Self abandonment](directory/self-abandonment)
 * [Codependency](#)
 * [Narcissism](#)
-* [Trauma](project/trauma)
+* [Trauma](directory/trauma)
 
 ## Some tools and approaches to help you heal
 

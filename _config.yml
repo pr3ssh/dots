@@ -10,9 +10,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  directory:
     output: true
-    permalink: /project/:slug
+    permalink: /directory/:slug
 
 defaults:
   -
@@ -35,9 +35,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "directory"
     values:
-      layout: "project"
+      layout: "directory-item"
 
 markdown: kramdown
 
