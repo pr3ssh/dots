@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Dots
+  site_title: The Dots
   favicon_image: /images/favicon.ico
 
 header_settings:
@@ -16,7 +16,7 @@ menu_settings:
       url: '/about'
 
 footer_settings:
-  footer_tagline: Dots
+  footer_tagline: The Dots
 
 hero_settings:
   overlay_opacity: 0.8
