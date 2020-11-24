@@ -7,7 +7,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 
 ## Demo content
 
-![Social image](images/social.jpg)
+`{{site.baseurl}}/images/image.jpg`
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
