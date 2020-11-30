@@ -1,5 +1,9 @@
-
+---
 title: About me
+subtitle: This is where you can find lots of great sources to improve wellbeing
+description: In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to...
+featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
+---
 
 ## Features
 
