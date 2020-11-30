@@ -7,10 +7,10 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 
 ## Stuff which you don’t know you might have
 
-* [Self abandonment](#)(/directory/self-abandonment)
-* [Codependency](#)(/directory/codependeny)
-* [Narcissism](#)(/directory/narcissim)
-* [Insecure atatchment](#)(/directory/insecure-attachment)
+* [Self abandonment](#)
+* [Codependency](#)
+* [Narcissism](#)
+* [Insecure atatchment](#)
 
 ## Some tools and approaches to help you heal
 
