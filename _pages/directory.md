@@ -8,9 +8,9 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 ## Stuff which you don’t know you might have
 
 * [Self abandonment](/directory/self-abandonment)
-* [Codependency](#)
-* [Narcissism](#)
-* [Trauma](/directory/trauma)
+* [Codependency](#)(/directory/codependeny)
+* [Narcissism](#)(/directory/narcissim)
+* [Insecure atatchment](/directory/insecure-attachment)
 
 ## Some tools and approaches to help you heal
 
@@ -20,6 +20,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Practicing law of attraction](#)
 * [Secure attachment](#)
 * [Bliss](#)
+* [Conscious relationships](#)
 
 ## Stuff
 
