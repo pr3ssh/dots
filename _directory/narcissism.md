@@ -1,4 +1,5 @@
-title: 'Narcissim'
+---
+title: 'Narcissism'
 subtitle: 'Subtitle edited...'
 description: 'Subtitle edited...'
 featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
