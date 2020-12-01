@@ -7,7 +7,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 
 ## Stuff which you don’t know you might have
 
-* [Self abandonment](#)
+* [Self abandonment](#) 
 * [Codependency](#)
 * [Narcissism](#)
 * [Insecure atatchment](#)
@@ -22,10 +22,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Bliss](#)
 * [Conscious relationships](#)
 
-## Stuff
+## Sruff to help you keen learning, growing, evolving
 
-* [Self regulation](#)
-* [Mindfulness](#)
-* [Positive beliefs](#)
-* [Practicing law of attraction](#)
-* [Secure attachment](#)
+* [Finding your bliss](#)
+* 
