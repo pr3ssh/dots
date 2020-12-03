@@ -10,7 +10,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Self abandonment](/directory/self-abandonment)
 * [Codependency](/directory/codependency)
 * [Narcissism](directory/narcissism)
-* [Insecure atatchment](directory/insecure-attachment)
+* [Insecure attachment](directory/insecure-attachment)
 
 ## Some tools and approaches to help you heal
 
