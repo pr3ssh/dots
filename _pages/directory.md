@@ -5,7 +5,7 @@ description: In publishing and graphic design, Lorem ipsum is a placeholder text
 featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 ---
 
-## Stuff which you don’t know you might have
+## Stuff which you don’t know you might have going on
 
 * [Self abandonment](/directory/self-abandonment)
 * [Codependency](/directory/codependency)
@@ -14,15 +14,15 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 
 ## Some tools and approaches to help you heal
 
-* [Self regulation](#)
-* [Mindfulness](#)
-* [Positive beliefs](#)
-* [Practicing law of attraction](#)
-* [Secure attachment](#)
-* [Bliss](#)
-* [Conscious relationships](#)
+* [Self regulation](/directory/codependency)
+* [Mindfulness](/directory/codependency)
+* [Positive beliefs](/directory/codependency)
+* [Practicing law of attraction](/directory/codependency)
+* [Secure attachment](/directory/codependency)
+* [Bliss](/directory/codependency)
+* [Conscious relationships](/directory/codependency)
 
 ## Sruff to help you keen learning, growing, evolving
 
-* [Finding your bliss](#)
+* [Finding your bliss](/directory/codependency)
 * 
