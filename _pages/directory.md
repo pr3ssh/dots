@@ -16,8 +16,8 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 
 * [Self regulation](/directory/self-regulation)
 * [Mindfulness](/directory/mindfulness)
-* [Positive beliefs](/directory/postive-beliefs)
-* [Practicing law of attraction](/directory/law-of-attaraction)
+* [Positive beliefs](/directory/positive-beliefs)
+* [Practicing law of attraction](/directory/law-of-attraction)
 * [Secure attachment](/directory/secure-attachment)
 * [Conscious relationships](/directory/conscious-relationships)
 
