@@ -25,3 +25,4 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 
 * [Finding your bliss](/directory/finding-your-bliss)
 * [Emotional, Intelligence, Resilience and Agility](/directory/resilience)
+* [Unlocking creativity](/directory/unlocking-creativity)
