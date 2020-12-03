@@ -1,5 +1,5 @@
 ---
-title: 'Positive Beliefs'
+title: 'ositive beliefs'
 subtitle: 'Subtitle edited...'
 description: 'Subtitle edited...'
 featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
