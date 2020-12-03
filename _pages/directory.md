@@ -14,15 +14,14 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 
 ## Some tools and approaches to help you heal
 
-* [Self regulation](/directory/codependency)
-* [Mindfulness](/directory/codependency)
-* [Positive beliefs](/directory/codependency)
-* [Practicing law of attraction](/directory/codependency)
-* [Secure attachment](/directory/codependency)
-* [Bliss](/directory/codependency)
-* [Conscious relationships](/directory/codependency)
+* [Self regulation](/directory/self-regulation)
+* [Mindfulness](/directory/mindfulness)
+* [Positive beliefs](/directory/postive-beliefs)
+* [Practicing law of attraction](/directory/law-of-attaraction)
+* [Secure attachment](/directory/secure-attachment)
+* [Conscious relationships](/directory/conscious-relationships)
 
 ## Sruff to help you keen learning, growing, evolving
 
-* [Finding your bliss](/directory/codependency)
+* [Finding your bliss](/directory/finding-your-bliss)
 * 
