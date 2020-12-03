@@ -21,7 +21,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Secure attachment](/directory/secure-attachment)
 * [Conscious relationships](/directory/conscious-relationships)
 
-## Stuff to help continue learning, growing and evolving
+## Stuff to help you to continue learning, growing and evolving
 
 * [Finding your bliss](/directory/finding-your-bliss)
 * [Emotional, Intelligence, Resilience and Agility](/directory/resilience)
