@@ -24,4 +24,4 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 ## Sruff to help you keen learning, growing, evolving
 
 * [Finding your bliss](/directory/finding-your-bliss)
-* 
+* [Emotional, Intelleigence, Resilience and Agility](/directory/resilience)
