@@ -5,7 +5,7 @@ description: In publishing and graphic design, Lorem ipsum is a placeholder text
 featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 ---
 
-## Stuff which you don’t know you might have going on
+## Stuff you might have going on
 
 * [Self abandonment](/directory/self-abandonment)
 * [Codependency](/directory/codependency)
@@ -21,7 +21,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Secure attachment](/directory/secure-attachment)
 * [Conscious relationships](/directory/conscious-relationships)
 
-## Sruff to help you keen learning, growing, evolving
+## Stuff to help continue learning, growing and evolving
 
 * [Finding your bliss](/directory/finding-your-bliss)
-* [Emotional, Intelleigence, Resilience and Agility](/directory/resilience)
+* [Emotional, Intelligence, Resilience and Agility](/directory/resilience)
