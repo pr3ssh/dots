@@ -11,9 +11,9 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Codependency](/directory/codependency)
 * [Narcissism](/directory/narcissism)
 * [Insecure attachment](/directory/insecure-attachment)
-* [On repeat](/directory/On repeat)
-* [Existential emptiness](/directory/existential emptiness)
-* [Toxic relating](/directory/toxic relating)
+* [On repeat](/directory/on-repeat)
+* [Existential emptiness](/directory/existential-emptiness)
+* [Toxic relating](/directory/toxic-relating)
 
 
 ## Some tools and approaches to help you heal
