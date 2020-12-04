@@ -13,6 +13,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Insecure attachment](/directory/insecure-attachment)
 * [On repeat](/directory/On repeat)
 * [Existential emptiness](/directory/existential emptiness)
+* [Toxic relating](/directory/toxic relating)
 
 
 ## Some tools and approaches to help you heal
@@ -22,7 +23,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Positive beliefs](/directory/positive-beliefs)
 * [Practicing law of attraction](/directory/law-of-attraction)
 * [Secure attachment](/directory/secure-attachment)
-* [Conscious relationships](/directory/conscious-relationships)
+* [Conscious relating](/directory/conscious-relating)
 * [Inner child work](/directory/inner-child)
 
 
