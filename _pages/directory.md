@@ -12,6 +12,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Narcissism](/directory/narcissism)
 * [Insecure attachment](/directory/insecure-attachment)
 
+
 ## Some tools and approaches to help you heal
 
 * [Self regulation](/directory/self-regulation)
@@ -20,6 +21,8 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [Practicing law of attraction](/directory/law-of-attraction)
 * [Secure attachment](/directory/secure-attachment)
 * [Conscious relationships](/directory/conscious-relationships)
+* [Inner child work](/directory/inner-child)
+
 
 ## Stuff to help you to continue learning, growing and evolving
 
