@@ -14,6 +14,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 * [On repeat](/directory/on-repeat)
 * [Existential emptiness](/directory/existential-emptiness)
 * [Toxic relating](/directory/toxic-relating)
+* [Harsh inner critic](/directory/inner-critic)
 
 
 ## Some tools and approaches to help you heal
