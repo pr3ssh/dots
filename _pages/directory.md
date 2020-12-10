@@ -2,7 +2,7 @@
 title: Themes & Directory
 subtitle: This is where you can find lots of great sources to improve wellbeing
 description: In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to...
-featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
+featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
 ## Stuff you might have going on
