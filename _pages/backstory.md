@@ -1,8 +1,7 @@
 ---
-title: About me
-subtitle: This is where you can find lots of great sources to improve wellbeing
+title: How The Dots came into Being
 description: In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to...
-featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
+featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
 ## Features
@@ -25,8 +24,3 @@ We've packed Personal full of powerful features to help showcase your work:
 * Works with GitHub Pages
 * Updated and supported by the developers
 
-## Contact us
-
-{% include contact-form.html %}
-
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
