@@ -1,6 +1,6 @@
 ---
 title: Themes & Directory
-subtitle: This is where you can find lots of great sources to improve wellbeing
+subtitle: This is where you can find lots of great sources that can help to improve your emotional wellbeing and growth
 description: In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to...
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
