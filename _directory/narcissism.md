@@ -5,7 +5,7 @@ description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
-![Demo image](/images/narcissism.jpg)
+![Demo image](/images/narcissism.jpeg)
 
  <small>Photo by Nigel Tadyanehondoon Unsplash</small>
 
