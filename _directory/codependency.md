@@ -1,6 +1,6 @@
 ---
 title: 'Codependency'
-subtitle: <i> You cannot save people. You can only love them</i>
+subtitle: <i> You cannot save people. You can only love them ~ Anais Nin</i>
 description: 'Subtitle edited...'
 featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 ---
