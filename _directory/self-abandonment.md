@@ -1,6 +1,6 @@
 ---
 title: 'Self abandonment'
-subtitle: 'When will you begin that long journey into yourself?'
+subtitle: <i>When will you begin that long journey into yourself? ~ Rumi</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
