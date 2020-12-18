@@ -1,6 +1,6 @@
 ---
 title: 'Codependency'
-subtitle: 'Subtitle edited...'
+subtitle: <i> You cannot save people. You can only love them</i>
 description: 'Subtitle edited...'
 featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 ---
