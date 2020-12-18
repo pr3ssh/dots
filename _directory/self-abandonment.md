@@ -6,7 +6,7 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
 ![Demo image](/images/self abandonment.jpg)
-Photo by Ifrah Akhter on Unsplash
+ <span>Photo by Ifrah Akhter on Unsplash</a></span>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Mauris pellentesque pulvinar pellentesque habitant morbi. 
 
