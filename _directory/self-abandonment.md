@@ -7,7 +7,7 @@ featured_image: /images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg
 
 ## Demo content
 
-![Demo image](/images/demo/about.jpg)
+![Demo image](/images/self abadonment.jpg)
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
