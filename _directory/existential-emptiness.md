@@ -1,6 +1,6 @@
 ---
 title: 'Existential Emptiness'
-subtitle: <i></i>
+subtitle: <i>A certain darkness is needed to see the stars ~ Osho</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
