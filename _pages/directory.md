@@ -11,7 +11,6 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 * [Codependency](/directory/codependency)
 * [Narcissism](/directory/narcissism)
 * [Insecure attachment](/directory/insecure-attachment)
-* [On repeat](/directory/on-repeat)
 * [Existential emptiness](/directory/existential-emptiness)
 * [Toxic relating](/directory/toxic-relating)
 * [Harsh inner critic](/directory/inner-critic)
@@ -21,7 +20,6 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 
 * [Self regulation](/directory/self-regulation)
 * [Mindfulness](/directory/mindfulness)
-* [Positive beliefs](/directory/positive-beliefs)
 * [Practicing law of attraction](/directory/law-of-attraction)
 * [Secure attachment](/directory/secure-attachment)
 * [Conscious relating](/directory/conscious-relating)
@@ -31,5 +29,5 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 ## Stuff to help you to continue learning, growing and evolving
 
 * [Finding your bliss](/directory/finding-your-bliss)
-* [Emotional, Intelligence, Resilience and Agility](/directory/resilience)
+* [Emotional Intelligence, Resilience and Agility](/directory/resilience)
 * [Unlocking creativity](/directory/unlocking-creativity)
