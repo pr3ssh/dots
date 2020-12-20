@@ -1,13 +1,13 @@
 ---
 title: 'Existential Emptiness'
-subtitle: <i>Healing doesn’t mean the damage never existed. It means the damage no longer controls your life  ~ Shah Rukh Khan</i>
+subtitle: <i></i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
-![Demo image](/images/insecure attachment.jpg)
+![Demo image](/images/emptiness.jpg)
  
- <small>Photo by Kasper Rasmussen on Unsplash</small>
+ <small>Photo by Pierre Bamin on Unsplash</small>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Mauris pellentesque pulvinar pellentesque habitant morbi. 
 
