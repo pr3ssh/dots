@@ -1,11 +1,11 @@
 ---
 title: 'Toxic Relating'
-subtitle: <i>Healing doesn’t mean the damage never existed. It means the damage no longer controls your life  ~ Shah Rukh Khan</i>
+subtitle: <i>When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about ~ Haruki Murakami</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
-![Demo image](/images/insecure attachment.jpg)
+![Demo image](/images/toxic.jpg)
  
  <small>Photo by Kasper Rasmussen on Unsplash</small>
 
