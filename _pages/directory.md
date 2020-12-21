@@ -23,7 +23,7 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 * [Practicing law of attraction](/directory/practicing-law-of-attraction)
 * [Secure attachment](/directory/secure-attachment)
 * [Conscious relating](/directory/conscious-relating)
-* [Inner child work](/directory/inner-child)
+* [Inner child work](/directory/inner-child-work)
 
 
 ## Stuff to help you to continue learning, growing and evolving
