@@ -8,12 +8,12 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 ## Stuff you might have going on
 
 * [Self abandonment](/directory/self-abandonment)
-* [Codependency](/directory/codependency)
-* [Narcissism](/directory/narcissism)
+* [Harsh inner critic](/directory/harsh-inner-critic)
 * [Insecure attachment](/directory/insecure-attachment)
+* [Narcissism](/directory/narcissism)
+* [Codependency](/directory/codependency)
 * [The Anxious Avoidant Trap](/directory/anxious-avoidant-trap)
 * [Toxic relating](/directory/toxic-relating)
-* [Harsh inner critic](/directory/harsh-inner-critic)
 * [Existential emptiness](/directory/existential-emptiness)
 
 
