@@ -1,5 +1,5 @@
 ---
-title: 'Emotional Intelligence,Resilience & Agility '
+title: 'Emotional Intelligence, Resilience & Agility '
 subtitle: <i>Healing doesn’t mean the damage never existed. It means the damage no longer controls your life  ~ Shah Rukh Khan</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
