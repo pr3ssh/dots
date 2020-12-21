@@ -20,7 +20,7 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 
 * [Self regulation](/directory/self-regulation)
 * [Mindfulness](/directory/mindfulness)
-* [Practicing law of attraction](/directory/law-of-attraction)
+* [Practicing law of attraction](/directory/practicing-law-of-attraction)
 * [Secure attachment](/directory/secure-attachment)
 * [Conscious relating](/directory/conscious-relating)
 * [Inner child work](/directory/inner-child)
