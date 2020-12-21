@@ -13,7 +13,7 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 * [Insecure attachment](/directory/insecure-attachment)
 * [Existential emptiness](/directory/existential-emptiness)
 * [Toxic relating](/directory/toxic-relating)
-* [Harsh inner critic](/directory/inner-critic)
+* [Harsh inner critic](/directory/harsh-inner-critic)
 
 
 ## Some tools and approaches to help you heal
