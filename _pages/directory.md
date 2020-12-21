@@ -20,8 +20,7 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 ## Some tools and approaches to help you heal
 
 * [Self regulation](/directory/self-regulation)
-* [Mindfulness](/directory/mindfulness)
-* [Practicing law of attraction](/directory/practicing-law-of-attraction)
+* [Self compassion & Self love](/directory/self-love)
 * [Secure attachment](/directory/secure-attachment)
 * [Conscious relating](/directory/conscious-relating)
 * [Inner child work](/directory/inner-child-work)
@@ -29,6 +28,8 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 
 ## Stuff to help you to continue learning, growing and evolving
 
+* [Mindfulness](/directory/mindfulness)
+* [Practicing law of attraction](/directory/practicing-law-of-attraction)
 * [Finding your bliss](/directory/finding-your-bliss)
 * [Emotional Intelligence, Resilience and Agility](/directory/resilience)
 * [Unlocking creativity](/directory/unlocking-creativity)
