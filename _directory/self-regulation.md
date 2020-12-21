@@ -1,6 +1,6 @@
 ---
 title: 'Self regulation'
-subtitle: <i></i>
+subtitle: <i>You, yourself, as much as anybody in the entire universe, deserve your love and affection ~ Buddha</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
