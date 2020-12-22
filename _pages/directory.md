@@ -12,7 +12,7 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 * [Insecure attachment](/directory/insecure-attachment)
 * [Narcissism](/directory/narcissism)
 * [Codependency](/directory/codependency)
-* [The Anxious Avoidant Trap](/directory/toxic-relating)
+* [The Anxious Avoidant Trap](/directory/anxious-avoidant-trap)
 * [Existential emptiness](/directory/existential-emptiness)
 
 
