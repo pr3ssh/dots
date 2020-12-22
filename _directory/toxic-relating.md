@@ -1,5 +1,5 @@
 ---
-title: 'Toxic Relating'
+title: 'The Anxious Avoidant Trap'
 subtitle: <i>When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about ~ Haruki Murakami</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
