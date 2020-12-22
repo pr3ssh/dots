@@ -1,6 +1,6 @@
 ---
 title: 'Self regulation'
-subtitle: <i>You, yourself, as much as anybody in the entire universe, deserve your love and affection ~ Buddha</i>
+subtitle: <i>Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor ~ Thich Nhat Hanh</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
