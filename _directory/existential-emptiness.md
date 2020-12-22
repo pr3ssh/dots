@@ -7,7 +7,7 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 
 ![Demo image](/images/emptiness.jpg)
  
- <small>Photo by Pierre Bamin on Unsplash</small>
+ <small>Photo by Will Stewart on Unsplash</small>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Mauris pellentesque pulvinar pellentesque habitant morbi. 
 
