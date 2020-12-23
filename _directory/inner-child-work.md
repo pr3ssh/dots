@@ -1,11 +1,11 @@
 ---
 title: 'Inner child work'
-subtitle: <i>Healing doesn’t mean the damage never existed. It means the damage no longer controls your life  ~ Shah Rukh Khan</i>
+subtitle: <i>The cry we hear from deep in our   hearts,  comes from the wounded child within.  Healing this inner  child’s pain is the key healingto transforming anger,  sadness, and fear ~ Thich Nhat Hanh</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
-![Demo image](/images/insecure attachment.jpg)
+![Demo image](/images/inner child.jpg)
  
  <small>Photo by Kasper Rasmussen on Unsplash</small>
 
