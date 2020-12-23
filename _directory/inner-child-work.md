@@ -1,6 +1,6 @@
 ---
 title: 'Inner child work'
-subtitle: <i>The cry we hear from deep in our   hearts,  comes from the wounded child within.  Healing this inner  child’s pain is the key healingto transforming anger,  sadness, and fear ~ Thich Nhat Hanh</i>
+subtitle: <i>The cry we hear from deep in our hearts, comes from the wounded child within. Healing this inner child’s pain is the key to transforming anger, sadness and fear ~ Thich Nhat Hanh</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
