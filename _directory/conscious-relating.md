@@ -1,11 +1,11 @@
 ---
 title: 'Conscious relating'
-subtitle: <i>Healing doesn’t mean the damage never existed. It means the damage no longer controls your life  ~ Shah Rukh Khan</i>
+subtitle: <i>If I accept the fact that my relationships are here to make me conscious, instead of happy, then my relationships become a wonderful self mastery tool that keeps realigning me with my higher purpose for living ~ Eckhart Tolle</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
-![Demo image](/images/insecure attachment.jpg)
+![Demo image](/images/conscious relating.jpg)
  
  <small>Photo by Kasper Rasmussen on Unsplash</small>
 
