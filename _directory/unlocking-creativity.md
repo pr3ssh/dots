@@ -1,13 +1,13 @@
 ---
 title: 'Unlocking creativity'
-subtitle: <i>Healing doesn’t mean the damage never existed. It means the damage no longer controls your life  ~ Shah Rukh Khan</i>
+subtitle: <i>What keeps life fascinating is the constant creativity of the soul ~ Deepak Chopra</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
-![Demo image](/images/insecure attachment.jpg)
+![Demo image](/images/unlocking creativity.jpg)
  
- <small>Photo by Kasper Rasmussen on Unsplash</small>
+ <small>Photo by Ihor Rapita on Unsplash</small>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Mauris pellentesque pulvinar pellentesque habitant morbi. 
 
