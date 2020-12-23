@@ -1,13 +1,13 @@
 ---
 title: 'Emotional Intelligence, Resilience & Agility '
-subtitle: <i>Healing doesn’t mean the damage never existed. It means the damage no longer controls your life  ~ Shah Rukh Khan</i>
+subtitle: <i>I am not what happened to me, I am what I choose to become ~ Carl Gustav Jung</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
-![Demo image](/images/insecure attachment.jpg)
+![Demo image](/images/resilience.jpg)
  
- <small>Photo by Kasper Rasmussen on Unsplash</small>
+ <small>Photo by Carl Jorgensen on Unsplash</small>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Mauris pellentesque pulvinar pellentesque habitant morbi. 
 
