@@ -1,11 +1,11 @@
 ---
 title: 'Mindfulness'
-subtitle: <i>Healing doesn’t mean the damage never existed. It means the damage no longer controls your life  ~ Shah Rukh Khan</i>
+subtitle: <i>Mindfulness is a way of befriending ourselves and our experience ~ Jon Kabat-Zinn</i>
 description: 'Subtitle edited...'
 featured_image: /images/jason-weingardt--unsplash.jpg
 ---
 
-![Demo image](/images/insecure attachment.jpg)
+![Demo image](/images/mindfulness.jpg)
  
  <small>Photo by Kasper Rasmussen on Unsplash</small>
 
