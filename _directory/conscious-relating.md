@@ -7,7 +7,7 @@ featured_image: /images/jason-weingardt--unsplash.jpg
 
 ![Demo image](/images/conscious relating.jpg)
  
- <small>Photo by John Moeses Bauan on Unsplash</small>
+ <small>Photo by Maria S on Unsplash</small>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Mauris pellentesque pulvinar pellentesque habitant morbi. 
 
