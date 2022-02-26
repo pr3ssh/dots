@@ -1,5 +1,38 @@
 # The Dots - Instructions
 
+### Edit site with live preview
+
+This sections shows up how to edit and generate a live preview site before publishing it.
+
+The steps are:
+
+#### Add some changes
+
+![](thedots-howto-1.png)
+
+#### Commit changes
+
+Once the changes has been made, just click "Propose changes' enabling first the 'create a new branch with a pull request" option like shows the image below.
+
+![](thedots-howto-2.png)
+
+#### Open a pull request
+
+Github will create a pull request on your site. You can edit the pull request title but is not necessary. Then click on "Create pull request" button.
+
+![](thedots-howto-3.png)
+
+#### Check the live preview and publish it
+
+Once the pull request is created, Github and Netlify will try to check if those changes are valid in terms os HTML and Jekyll. If yes, you can see a message says that "All checks have passed" and a message indicates that your deploy preview site is ready. Click on "Details" to check it out. Once checked, you can approve those changes pressing "Merge pull requests" button or close this pull request to cancel.
+
+![](thedots-howto-4.png)
+
+![](thedots-howto-5.png)
+
+---
+
+
 ### The `_config.yml` file
 
 The main things you might need to change here are:
