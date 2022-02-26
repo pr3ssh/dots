@@ -30,6 +30,14 @@ Once the pull request is created, Github and Netlify will try to check if those 
 
 ![](thedots-howto-5.png)
 
+#### Additional note
+
+In case you only want to upload a file or just make a small change, you can do it and save it without creating a branch and a pull request (direct method).
+
+#### Example
+
+You can check an example of this procedure on the following [pull request](https://github.com/chloejhill/dots/pull/3).
+
 ---
 
 
